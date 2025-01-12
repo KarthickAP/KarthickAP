@@ -1,5 +1,5 @@
 - 👋 Hi, This is @KarthickAP
-- 👀 I’m interested in Powershell, little bit of coding
+- 👀 I’m interested in Powershell, little bit of scrippting. thats it. nothing more :)
 - 🌱 I’m currently learning ... ummmm... many things. 
 - 💞️ I’m looking to collaborate on ... what keeps me busy.
 - 📫 How to reach me ... are you sure? I am just a novice. but yeah, email me.
